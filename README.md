@@ -1,6 +1,6 @@
 # Lenia experiments
 
-Experiments with [Lenia](https://en.wikipedia.org/wiki/Lenia)-style continuous cellular automata, plus a few related simulations, written for a university programming course (*Računalniški praktikum*). The code and comments are in Slovenian.
+Experiments with [Lenia](https://en.wikipedia.org/wiki/Lenia)-style continuous cellular automata, plus a few related simulations. The code and comments are in Slovenian.
 
 Every script is standalone. It runs the simulation and plays it as a matplotlib animation. Most of them then save an image to `test.png`, and the Lenia ones also plot total mass. Run them from the repo root:
 
